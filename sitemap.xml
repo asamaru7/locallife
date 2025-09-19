@@ -1,24 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url><loc>https://locallife.asamaru.net/</loc><lastmod>2025-09-19T14:42:14+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/holiday/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/auspicious/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/holiday/2020/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2020/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/holiday/2021/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2021/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/holiday/2022/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2022/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/holiday/2023/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2023/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/holiday/2024/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2024/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/holiday/2025/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2025/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/holiday/2026/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2026/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/holiday/2027/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2027/</loc><lastmod>2025-09-19T14:39:05+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/year/2022/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/holiday/2022/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2022/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/year/2023/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/holiday/2023/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2023/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/year/2024/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/holiday/2024/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2024/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/year/2025/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/holiday/2025/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2025/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/year/2026/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/holiday/2026/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2026/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/year/2027/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/holiday/2027/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2027/</loc><lastmod>2025-09-19T15:24:34+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/</loc><lastmod>2025-09-19T15:24:33+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/holiday/</loc><lastmod>2025-09-19T15:24:33+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/auspicious/</loc><lastmod>2025-09-19T15:24:33+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/year/2020/</loc><lastmod>2025-09-19T15:24:33+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/holiday/2020/</loc><lastmod>2025-09-19T15:24:33+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2020/</loc><lastmod>2025-09-19T15:24:33+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/year/2021/</loc><lastmod>2025-09-19T15:24:33+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/holiday/2021/</loc><lastmod>2025-09-19T15:24:33+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2021/</loc><lastmod>2025-09-19T15:24:33+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-cheongjuyongamjeom/</loc><lastmod>2025-09-19T14:35:09+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus/cheongjujeom/</loc><lastmod>2025-09-19T14:35:09+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus/chuncheonjeom/</loc><lastmod>2025-09-19T14:35:09+09:00</lastmod></url>
@@ -1261,15 +1270,6 @@
 	<url><loc>https://locallife.asamaru.net/mart/emart/imateu-sangjujeom/</loc><lastmod>2025-09-19T14:34:58+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart/imateu-seokwipojeom/</loc><lastmod>2025-09-19T14:34:58+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart/imateu-seosanjeom/</loc><lastmod>2025-09-19T14:34:58+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/</loc><lastmod>2025-09-19T14:33:25+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/year/2020/</loc><lastmod>2025-09-19T14:33:25+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/year/2021/</loc><lastmod>2025-09-19T14:33:25+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/year/2022/</loc><lastmod>2025-09-19T14:33:25+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/year/2023/</loc><lastmod>2025-09-19T14:33:25+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/year/2024/</loc><lastmod>2025-09-19T14:33:25+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/year/2025/</loc><lastmod>2025-09-19T14:33:25+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/year/2026/</loc><lastmod>2025-09-19T14:33:25+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/calendar/year/2027/</loc><lastmod>2025-09-19T14:33:25+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/</loc><lastmod>2025-09-19T14:33:25+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart/</loc><lastmod>2025-09-19T14:33:25+09:00</lastmod></url>
 </urlset>
