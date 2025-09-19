@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>생활정보가이드</title>
+	<id>https://locallife.asamaru.net/</id>
+	<updated>2024-02-27T14:24:12+09:00</updated>
+	<subtitle>생활에 필요한 모든 정보를 한눈에</subtitle>
+	<link href="https://locallife.asamaru.net/" rel="alternate" type="text/html" />
+	<link href="https://locallife.asamaru.net/atom-all.xml" rel="self" type="application/atom+xml" />
+	<author>
+		<name>아사마루</name>
+		<uri>https://locallife.asamaru.net/</uri>
+		<email>asamaru@asamaru.net</email>
+	</author>
+</feed>
