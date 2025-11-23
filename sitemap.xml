@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url><loc>https://locallife.asamaru.net/</loc><lastmod>2025-10-14T14:15:19+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-wonjujijeongjeom/</loc><lastmod>2025-11-23T05:00:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-incheonkajeongjeom/</loc><lastmod>2025-11-23T05:00:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-namyangjutoekyewonjeom/</loc><lastmod>2025-11-23T05:00:44+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus/pyeongchonjeom/</loc><lastmod>2025-11-21T05:01:04+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-pyeongtaegseojeongjeom/</loc><lastmod>2025-11-21T05:01:04+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus/pyeongtaeganjungjeom/</loc><lastmod>2025-11-21T05:01:04+09:00</lastmod></url>
@@ -1240,9 +1243,6 @@
 	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-daejeonsungeolijeom/</loc><lastmod>2025-11-20T05:00:33+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-ansanyeogjeom/</loc><lastmod>2025-11-18T05:00:59+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-cheonandujeongjeom/</loc><lastmod>2025-11-18T05:00:40+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-wonjujijeongjeom/</loc><lastmod>2025-11-16T05:00:38+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-incheonkajeongjeom/</loc><lastmod>2025-11-16T05:00:38+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-namyangjutoekyewonjeom/</loc><lastmod>2025-11-16T05:00:38+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/</loc><lastmod>2025-10-01T15:17:47+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/holiday/</loc><lastmod>2025-10-01T15:17:47+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/auspicious/</loc><lastmod>2025-10-01T15:17:47+09:00</lastmod></url>
