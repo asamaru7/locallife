@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url><loc>https://locallife.asamaru.net/</loc><lastmod>2025-10-14T14:15:19+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-busandadaejeom/</loc><lastmod>2025-12-04T05:00:33+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-ansanyeogjeom/</loc><lastmod>2025-12-03T05:00:40+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-cheonandujeongjeom/</loc><lastmod>2025-12-02T05:00:57+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-hanammisa1dongjeom/</loc><lastmod>2025-12-02T05:00:38+09:00</lastmod></url>
@@ -157,7 +158,6 @@
 	<url><loc>https://locallife.asamaru.net/mart/megamart/ulsanjeom/</loc><lastmod>2025-11-29T09:12:52+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/megamart/chuncheonjeom/</loc><lastmod>2025-11-29T09:12:52+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/megamart/kijangjeom/</loc><lastmod>2025-11-29T09:12:52+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-seoulcheonwangyeogjeom/</loc><lastmod>2025-11-29T09:12:51+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-seoulcheonwangjeom/</loc><lastmod>2025-11-29T09:12:51+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-seoulhoekijeom/</loc><lastmod>2025-11-29T09:12:51+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-seocho2jeom/</loc><lastmod>2025-11-29T09:12:51+09:00</lastmod></url>
@@ -304,6 +304,7 @@
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-seoulssangmunjeom/</loc><lastmod>2025-11-29T09:12:51+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-seoulokeumjeom/</loc><lastmod>2025-11-29T09:12:51+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-seoulolyujeom/</loc><lastmod>2025-11-29T09:12:51+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-seoulcheonwangyeogjeom/</loc><lastmod>2025-11-29T09:12:51+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus/kangleungjeom/</loc><lastmod>2025-11-29T09:12:50+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-kangseosaogjeom/</loc><lastmod>2025-11-29T09:12:50+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-kangseojeom/</loc><lastmod>2025-11-29T09:12:50+09:00</lastmod></url>
@@ -452,7 +453,6 @@
 	<url><loc>https://locallife.asamaru.net/mart/homeplus/busanbanyeojeom/</loc><lastmod>2025-11-29T09:12:50+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-busansenteomjeom/</loc><lastmod>2025-11-29T09:12:50+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-busanyeonjejeom/</loc><lastmod>2025-11-29T09:12:50+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/lottemart/jecheonjeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/lottemart/asanteomineoljeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/lottemart/seocheongjujeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/lottemart/dangjinjeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
@@ -571,9 +571,9 @@
 	<url><loc>https://locallife.asamaru.net/mart/lottemart/kyeyangjeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/lottemart/pankyojeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-suyusijangjeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-namyangjujinjeopjeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/lottemart/kyeongkiyangpyeongjeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-yonginsujijeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-namyangjujinjeopjeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/lottemart/seonbujeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-incheonsolaejeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/lottemart/siheungbaekotjeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
@@ -586,13 +586,13 @@
 	<url><loc>https://locallife.asamaru.net/mart/lottemart/seosanjeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/lottemart/seongjeongjeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/lottemart/daedeogjeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/lottemart/jecheonjeom/</loc><lastmod>2025-11-29T09:12:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-seutapildeusiti-wilyejeom/</loc><lastmod>2025-11-29T09:12:48+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-siheungmogkamjeom/</loc><lastmod>2025-11-29T09:12:48+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-siheungaullesjeom/</loc><lastmod>2025-11-29T09:12:48+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-siheungjeongwangjeom/</loc><lastmod>2025-11-29T09:12:48+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-asandunpojeom/</loc><lastmod>2025-11-29T09:12:48+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-asanbaebangjeom/</loc><lastmod>2025-11-29T09:12:48+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-andongkusijangjeom/</loc><lastmod>2025-11-29T09:12:48+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-andongogdongjeom/</loc><lastmod>2025-11-29T09:12:48+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-ansankojanjeom/</loc><lastmod>2025-11-29T09:12:48+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-ansanidongjeom/</loc><lastmod>2025-11-29T09:12:48+09:00</lastmod></url>
