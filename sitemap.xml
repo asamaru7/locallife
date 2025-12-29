@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url><loc>https://locallife.asamaru.net/</loc><lastmod>2025-10-14T14:15:19+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-wonjujijeongjeom/</loc><lastmod>2025-12-30T05:03:59+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-incheonkajeongjeom/</loc><lastmod>2025-12-30T05:03:59+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-hanammisa1dongjeom/</loc><lastmod>2025-12-30T05:03:59+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-namyangjutoekyewonjeom/</loc><lastmod>2025-12-30T05:03:58+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-suyusijangjeom/</loc><lastmod>2025-12-28T05:01:09+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-yonginsujijeom/</loc><lastmod>2025-12-28T05:01:09+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-incheonsolaejeom/</loc><lastmod>2025-12-28T05:01:09+09:00</lastmod></url>
@@ -1235,10 +1239,6 @@
 	<url><loc>https://locallife.asamaru.net/mart/lottemart/daeyeonjeom/</loc><lastmod>2025-12-24T05:00:38+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-cheonandujeongjeom/</loc><lastmod>2025-12-24T05:00:37+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-junghwalibeosenskjeom/</loc><lastmod>2025-12-24T05:00:37+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-hanammisa1dongjeom/</loc><lastmod>2025-12-23T05:01:00+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-incheonkajeongjeom/</loc><lastmod>2025-12-22T05:02:03+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-wonjujijeongjeom/</loc><lastmod>2025-12-22T05:02:02+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-namyangjutoekyewonjeom/</loc><lastmod>2025-12-22T05:02:01+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/</loc><lastmod>2025-10-01T15:17:47+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/holiday/</loc><lastmod>2025-10-01T15:17:47+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/auspicious/</loc><lastmod>2025-10-01T15:17:47+09:00</lastmod></url>
