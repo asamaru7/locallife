@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url><loc>https://locallife.asamaru.net/</loc><lastmod>2025-10-14T14:15:19+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-daejeonsungeolijeom/</loc><lastmod>2026-01-02T05:00:36+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-busandadaejeom/</loc><lastmod>2026-01-02T05:00:36+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-ansanyeogjeom/</loc><lastmod>2026-01-01T08:22:22+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/</loc><lastmod>2026-01-01T08:22:18+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/holiday/</loc><lastmod>2026-01-01T08:22:18+09:00</lastmod></url>
@@ -97,7 +99,6 @@
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-incheonnonhyeon2jeom/</loc><lastmod>2025-12-28T05:01:07+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus/incheonnonhyeonjeom/</loc><lastmod>2025-12-28T05:01:07+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-incheonnonhyeonjeom/</loc><lastmod>2025-12-28T05:01:07+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-incheondanghajeom/</loc><lastmod>2025-12-28T05:01:07+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-incheonmajeonjeom/</loc><lastmod>2025-12-28T05:01:07+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-incheonbukaeyeogjeom/</loc><lastmod>2025-12-28T05:01:07+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-incheonsongdojeom/</loc><lastmod>2025-12-28T05:01:07+09:00</lastmod></url>
@@ -151,7 +152,6 @@
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-cheongjuseonghwa2jeom/</loc><lastmod>2025-12-28T05:01:07+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-cheongjuyongamjeom/</loc><lastmod>2025-12-28T05:01:07+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-sinsajeom/</loc><lastmod>2025-12-28T05:01:06+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-sinanjeom/</loc><lastmod>2025-12-28T05:01:06+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-sinjeong2jeom/</loc><lastmod>2025-12-28T05:01:06+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-sinjeong3jeom/</loc><lastmod>2025-12-28T05:01:06+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-sinjeongjeom/</loc><lastmod>2025-12-28T05:01:06+09:00</lastmod></url>
@@ -1246,8 +1246,6 @@
 	<url><loc>https://locallife.asamaru.net/mart/emart/imateu-seongseojeom/</loc><lastmod>2025-12-28T05:00:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/</loc><lastmod>2025-12-28T05:00:48+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart/</loc><lastmod>2025-12-28T05:00:48+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-daejeonsungeolijeom/</loc><lastmod>2025-12-26T05:00:36+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-busandadaejeom/</loc><lastmod>2025-12-26T05:00:36+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/year/2025/</loc><lastmod>2025-10-01T15:17:47+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/holiday/2025/</loc><lastmod>2025-10-01T15:17:47+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2025/</loc><lastmod>2025-10-01T15:17:47+09:00</lastmod></url>
