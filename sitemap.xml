@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url><loc>https://locallife.asamaru.net/waste/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/</loc><lastmod>2026-02-13T17:47:41+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/</loc><lastmod>2026-02-13T14:55:36+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/medication/</loc><lastmod>2026-02-13T14:55:31+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/medication/guide/</loc><lastmod>2026-02-13T14:55:31+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/battery/</loc><lastmod>2026-02-13T14:55:31+09:00</lastmod></url>
@@ -11,6 +11,8 @@
 	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/</loc><lastmod>2026-02-13T14:55:27+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/guide/</loc><lastmod>2026-02-13T14:55:27+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/</loc><lastmod>2026-02-11T17:40:51+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/recycle/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus/ulsanjeom/</loc><lastmod>2026-02-17T05:06:19+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus_express/igseupeuleseu-wonjumusiljeom/</loc><lastmod>2026-02-17T05:06:19+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/homeplus/wonjujeom/</loc><lastmod>2026-02-17T05:06:19+09:00</lastmod></url>
@@ -1774,8 +1776,6 @@
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kyeongsangbugdo/ulleungkun/</loc><lastmod>2026-02-13T14:55:12+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kwangjukwangyeogsi/namku/</loc><lastmod>2026-02-13T14:55:11+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kwangjukwangyeogsi/dongku/</loc><lastmod>2026-02-13T14:55:11+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/recycle/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/lottemart/daeyeonjeom/</loc><lastmod>2026-02-13T05:02:50+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-wonjujijeongjeom/</loc><lastmod>2026-02-13T05:02:49+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-pajuyadangjeom/</loc><lastmod>2026-02-13T05:02:49+09:00</lastmod></url>
@@ -1813,6 +1813,25 @@
 	<url><loc>https://locallife.asamaru.net/calendar/year/2027/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/holiday/2027/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2027/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/bulky-waste/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/construction-household-waste/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/etc/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/food-waste/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/general-pay-as-you-throw-waste/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/household-hazardous-waste/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/noncombustible-pay-as-you-throw-waste/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/recycle/battery/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/recycle/clear-pet-bottle/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/recycle/clothing-fabric/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/recycle/electronic-waste/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/recycle/expanded-plastic/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/recycle/glass-bottle/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/recycle/lighting-product/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/recycle/metal/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/recycle/paper-pack/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/recycle/paper/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/recycle/plastic/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/type/recycle/vinyl/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/jeonlanamdo/mogposi/jugkyodong/</loc><lastmod>2026-02-13T17:47:41+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/jeonlanamdo/wandokun/cheongsanmyeon/</loc><lastmod>2026-02-13T17:47:41+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/kyeongsangnamdo/hapcheonkun/ssangchaegmyeon/</loc><lastmod>2026-02-13T17:47:40+09:00</lastmod></url>
@@ -8533,24 +8552,5 @@
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kwangjukwangyeogsi/dongku/yongsandong/</loc><lastmod>2026-02-13T14:55:11+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kwangjukwangyeogsi/dongku/jisandong/</loc><lastmod>2026-02-13T14:55:11+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kwangjukwangyeogsi/dongku/hagdong/</loc><lastmod>2026-02-13T14:55:11+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/bulky-waste/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/construction-household-waste/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/etc/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/food-waste/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/general-pay-as-you-throw-waste/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/household-hazardous-waste/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/noncombustible-pay-as-you-throw-waste/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/recycle/battery/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/recycle/clear-pet-bottle/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/recycle/clothing-fabric/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/recycle/electronic-waste/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/recycle/expanded-plastic/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/recycle/glass-bottle/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/recycle/lighting-product/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/recycle/metal/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/recycle/paper-pack/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/recycle/paper/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/recycle/plastic/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/type/recycle/vinyl/</loc><lastmod>2026-02-13T05:03:15+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/about-us/</loc><lastmod>2025-10-16T05:00:28+09:00</lastmod></url>
 </urlset>
