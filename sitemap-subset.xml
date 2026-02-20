@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/</loc><lastmod>2026-02-21T07:33:27+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/guide/</loc><lastmod>2026-02-21T07:33:27+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/battery/</loc><lastmod>2026-02-20T05:04:30+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/battery/guide/</loc><lastmod>2026-02-20T05:04:30+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/medication/</loc><lastmod>2026-02-20T05:04:15+09:00</lastmod></url>
@@ -8,8 +10,6 @@
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/</loc><lastmod>2026-02-20T05:04:07+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/guide/</loc><lastmod>2026-02-20T05:04:07+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/</loc><lastmod>2026-02-13T14:55:27+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/guide/</loc><lastmod>2026-02-13T14:55:27+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/</loc><lastmod>2026-02-11T17:40:51+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/type/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/type/recycle/</loc><lastmod>2026-02-19T05:02:46+09:00</lastmod></url>
