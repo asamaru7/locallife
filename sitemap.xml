@@ -11,6 +11,8 @@
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/</loc><lastmod>2026-04-14T09:33:08+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/guide/</loc><lastmod>2026-04-14T09:33:08+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/</loc><lastmod>2026-02-11T17:40:51+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-cheonancheongdangjeom/</loc><lastmod>2026-04-19T05:04:31+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kwangjukwangyeogsi/seoku/</loc><lastmod>2026-04-19T05:04:31+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/type/</loc><lastmod>2026-04-19T05:02:04+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/type/recycle/</loc><lastmod>2026-04-19T05:02:04+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart_nobrand/nobeulaendeu-yangsankachonjeom/</loc><lastmod>2026-04-19T05:01:58+09:00</lastmod></url>
@@ -2088,8 +2090,6 @@
 	<url><loc>https://locallife.asamaru.net/mart/emart/imateu-ansankojanjeom/</loc><lastmod>2026-04-14T09:32:56+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart/imateu-anseongjeom/</loc><lastmod>2026-04-14T09:32:56+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/mart/emart/imateu-anyangjeom/</loc><lastmod>2026-04-14T09:32:56+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-cheonancheongdangjeom/</loc><lastmod>2026-04-12T05:04:21+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kwangjukwangyeogsi/seoku/</loc><lastmod>2026-04-12T05:04:21+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/holiday/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/auspicious/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
@@ -2117,6 +2117,7 @@
 	<url><loc>https://locallife.asamaru.net/calendar/year/2027/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/holiday/2027/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2027/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kwangjukwangyeogsi/seoku/nongseongdong/</loc><lastmod>2026-04-19T05:04:31+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/type/bulky-waste/</loc><lastmod>2026-04-19T05:02:04+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/type/construction-household-waste/</loc><lastmod>2026-04-19T05:02:04+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/type/etc/</loc><lastmod>2026-04-19T05:02:04+09:00</lastmod></url>
@@ -8857,6 +8858,5 @@
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/seoulteugbyeolsi/kangnamku/daechidong/</loc><lastmod>2026-04-14T09:33:09+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/seoulteugbyeolsi/kangnamku/dokogdong/</loc><lastmod>2026-04-14T09:33:09+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/seoulteugbyeolsi/kangnamku/samseongdong/</loc><lastmod>2026-04-14T09:33:09+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kwangjukwangyeogsi/seoku/nongseongdong/</loc><lastmod>2026-04-12T05:04:21+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/about-us/</loc><lastmod>2025-10-16T05:00:28+09:00</lastmod></url>
 </urlset>
