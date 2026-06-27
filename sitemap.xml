@@ -11,6 +11,9 @@
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/guide/</loc><lastmod>2026-06-27T05:01:42+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/</loc><lastmod>2026-06-25T05:06:07+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/</loc><lastmod>2026-02-11T17:40:51+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/</loc><lastmod>2026-06-27T05:04:18+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-dasanjikeumjeom/</loc><lastmod>2026-06-27T05:04:17+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/</loc><lastmod>2026-06-27T05:04:17+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/jeonlanamdo/mogposi/</loc><lastmod>2026-06-27T05:02:30+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/jeonlanamdo/wandokun/</loc><lastmod>2026-06-27T05:02:30+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/jeonbugteugbyeoljachido/igsansi/</loc><lastmod>2026-06-27T05:02:29+09:00</lastmod></url>
@@ -2105,9 +2108,6 @@
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kyeongkido/koyangsi-deogyangku/</loc><lastmod>2026-06-21T05:04:19+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kyeongkido/koyangsi-ilsandongku/</loc><lastmod>2026-06-21T05:04:19+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kyeongkido/koyangsi-ilsanseoku/</loc><lastmod>2026-06-21T05:04:19+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/</loc><lastmod>2026-06-20T05:03:21+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/</loc><lastmod>2026-06-20T05:03:11+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/mart/emart_everyday/ebeulidei-dasanjikeumjeom/</loc><lastmod>2026-06-20T05:02:43+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/holiday/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/auspicious/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
@@ -2135,6 +2135,35 @@
 	<url><loc>https://locallife.asamaru.net/calendar/year/2027/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/holiday/2027/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/calendar/auspicious/2027/</loc><lastmod>2026-02-05T11:11:46+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/samlagdong/</loc><lastmod>2026-06-27T05:04:18+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/eomkungdong/</loc><lastmod>2026-06-27T05:04:18+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/julyedong/</loc><lastmod>2026-06-27T05:04:18+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/hagjangdong/</loc><lastmod>2026-06-27T05:04:18+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/kamjeondong/</loc><lastmod>2026-06-27T05:04:18+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/kwaebeopdong/</loc><lastmod>2026-06-27T05:04:18+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/deogpodong/</loc><lastmod>2026-06-27T05:04:18+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/moladong/</loc><lastmod>2026-06-27T05:04:18+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/samlagdong/</loc><lastmod>2026-06-27T05:04:18+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/eomkungdong/</loc><lastmod>2026-06-27T05:04:18+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/julyedong/</loc><lastmod>2026-06-27T05:04:18+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/hagjangdong/</loc><lastmod>2026-06-27T05:04:18+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/kamjeondong/</loc><lastmod>2026-06-27T05:04:17+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/kwaebeopdong/</loc><lastmod>2026-06-27T05:04:17+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/deogpodong/</loc><lastmod>2026-06-27T05:04:17+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/moladong/</loc><lastmod>2026-06-27T05:04:17+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/kangmundong/</loc><lastmod>2026-06-27T05:04:15+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/nammundong/</loc><lastmod>2026-06-27T05:04:15+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/naekogdong/</loc><lastmod>2026-06-27T05:04:15+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/noamdong/</loc><lastmod>2026-06-27T05:04:15+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/sacheonmyeon/</loc><lastmod>2026-06-27T05:04:15+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/seongnamdong/</loc><lastmod>2026-06-27T05:04:15+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/songjeongdong/</loc><lastmod>2026-06-27T05:04:15+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/anhyeondong/</loc><lastmod>2026-06-27T05:04:15+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/imdangdong/</loc><lastmod>2026-06-27T05:04:15+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/jibyeondong/</loc><lastmod>2026-06-27T05:04:15+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/chodangdong/</loc><lastmod>2026-06-27T05:04:15+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/ponamdong/</loc><lastmod>2026-06-27T05:04:15+09:00</lastmod></url>
+	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/hongjedong/</loc><lastmod>2026-06-27T05:04:15+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/jeonlanamdo/najusi/ichangdong/</loc><lastmod>2026-06-27T05:02:30+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/jeonlanamdo/najusi/juglimdong/</loc><lastmod>2026-06-27T05:02:30+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/jeonlanamdo/mogposi/namkyodong/</loc><lastmod>2026-06-27T05:02:30+09:00</lastmod></url>
@@ -9266,34 +9295,5 @@
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kyeongkido/koyangsi-ilsanseoku/kajwadong/</loc><lastmod>2026-06-21T05:04:19+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kyeongkido/koyangsi-ilsanseoku/kusandong/</loc><lastmod>2026-06-21T05:04:19+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kyeongkido/koyangsi-ilsanseoku/daehwadong/</loc><lastmod>2026-06-21T05:04:19+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/kamjeondong/</loc><lastmod>2026-06-20T05:03:21+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/kwaebeopdong/</loc><lastmod>2026-06-20T05:03:21+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/deogpodong/</loc><lastmod>2026-06-20T05:03:21+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/moladong/</loc><lastmod>2026-06-20T05:03:21+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/samlagdong/</loc><lastmod>2026-06-20T05:03:21+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/eomkungdong/</loc><lastmod>2026-06-20T05:03:21+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/julyedong/</loc><lastmod>2026-06-20T05:03:21+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/fluorescent/busankwangyeogsi/sasangku/hagjangdong/</loc><lastmod>2026-06-20T05:03:21+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/kamjeondong/</loc><lastmod>2026-06-20T05:03:11+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/kwaebeopdong/</loc><lastmod>2026-06-20T05:03:11+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/deogpodong/</loc><lastmod>2026-06-20T05:03:11+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/moladong/</loc><lastmod>2026-06-20T05:03:11+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/samlagdong/</loc><lastmod>2026-06-20T05:03:11+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/eomkungdong/</loc><lastmod>2026-06-20T05:03:11+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/julyedong/</loc><lastmod>2026-06-20T05:03:11+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/battery/busankwangyeogsi/sasangku/hagjangdong/</loc><lastmod>2026-06-20T05:03:11+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/kangmundong/</loc><lastmod>2026-06-20T05:02:51+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/nammundong/</loc><lastmod>2026-06-20T05:02:51+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/naekogdong/</loc><lastmod>2026-06-20T05:02:51+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/noamdong/</loc><lastmod>2026-06-20T05:02:51+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/sacheonmyeon/</loc><lastmod>2026-06-20T05:02:51+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/seongnamdong/</loc><lastmod>2026-06-20T05:02:51+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/songjeongdong/</loc><lastmod>2026-06-20T05:02:51+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/anhyeondong/</loc><lastmod>2026-06-20T05:02:51+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/imdangdong/</loc><lastmod>2026-06-20T05:02:51+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/jibyeondong/</loc><lastmod>2026-06-20T05:02:51+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/chodangdong/</loc><lastmod>2026-06-20T05:02:51+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/ponamdong/</loc><lastmod>2026-06-20T05:02:51+09:00</lastmod></url>
-	<url><loc>https://locallife.asamaru.net/waste/collection/clothing/kangwonteugbyeoljachido/kangleungsi/hongjedong/</loc><lastmod>2026-06-20T05:02:51+09:00</lastmod></url>
 	<url><loc>https://locallife.asamaru.net/about-us/</loc><lastmod>2025-10-16T05:00:28+09:00</lastmod></url>
 </urlset>
