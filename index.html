@@ -49,7 +49,7 @@
 							"name": "아사마루"
 						},
 						"datePublished": "2025-10-14T14:15:19+09:00",
-						"dateModified": "2026-02-11T17:40:51+09:00",
+						"dateModified": "2026-10-30T16:40:26+09:00",
 						"isPartOf": {
 							"@id": "https://locallife.asamaru.net/#website"
 						},
@@ -87,8 +87,8 @@
 				]
 			}
 		</script>
-		<link href="/css/min/ccd865cca85d569d1e2e599096d86173.css" type="text/css" rel="stylesheet" />
-		<script src="/js/min/609ff94b371643592ca271c3d430028f.js" async type="text/javascript"></script>
+		<link href="/css/min/d452855a6e9d90f39eb64f5ca6722133.css" type="text/css" rel="stylesheet" />
+		<script src="/js/min/16e8b0279fcb6dcdd3b2f47a26bd8e49.js" async type="text/javascript"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-0MXPN21N83"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
@@ -120,9 +120,16 @@
 		<section class="mx-auto lg:grid max-w-[1280px] min-w-[320px] lg:grid-cols-[1fr_300px]">
 			<main class="py-3 px-3 min-w-0 bg-gray-50 lg:px-3">
 				<div class="container py-8 px-4 mx-auto">
-					<div class="mb-10 text-center">
-						<p class="text-lg text-gray-500">마트 정보와 달력, 손 없는 날, 공휴일, 분리배출 수거함 정보를 한눈에</p>
-					</div>
+					<p class="mb-3 text-lg text-gray-700">마트 휴무일, 공휴일·달력, 분리배출 정보를 한곳에서 확인하세요.</p>
+					<p class="mb-4 text-gray-600">마트의 지점별 휴무일과 영업시간, 연도별 공휴일과 손 없는 날, 품목별 분리배출 방법과 지역별 수거함 위치를 안내합니다.</p>
+					<nav aria-label="주요 서비스" class="mb-10">
+						<ul class="flex flex-wrap gap-2">
+							<li><a href="https://locallife.asamaru.net/mart/" class="btn btn-outline">마트 휴무일 확인</a></li>
+							<li><a href="https://locallife.asamaru.net/calendar/" class="btn btn-outline">달력·공휴일 보기</a></li>
+							<li><a href="https://locallife.asamaru.net/waste/type/" class="btn btn-outline">분리배출 방법 찾기</a></li>
+							<li><a href="https://locallife.asamaru.net/waste/collection/" class="btn btn-outline">수거함 위치 찾기</a></li>
+						</ul>
+					</nav>
 					<div class="gad-box">
 						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8163803188491150" crossorigin="anonymous"></script>
 						<ins class="adsbygoogle" style="display: block" data-ad-client="ca-pub-8163803188491150" data-ad-slot="4662750146" data-ad-format="auto" data-full-width-responsive="true"></ins>
@@ -130,98 +137,92 @@
 							(adsbygoogle = window.adsbygoogle || []).push({});
 						</script>
 					</div>
-					<h2 class="divider">마트 안내</h2>
-					<div class="grid grid-cols-1 gap-6 mb-12 md:grid-cols-2 lg:grid-cols-3">
-						<div class="shadow-md card bg-base-100">
-							<div class="card-body">
-								<h3 class="card-title">이마트</h3>
-								<ul class="mt-2 w-full menu bg-base-200 rounded-box">
-									<li>
-										<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart">이마트</a>
-									</li>
-									<li>
-										<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_traders">이마트 트레이더스</a>
-									</li>
-									<li>
-										<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_nobrand">노브랜드</a>
-									</li>
-									<li>
-										<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_everyday">이마트 에브리데이</a>
-									</li>
-									<li>
-										<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_starfieldmarket">스타필드마켓</a>
-									</li>
-									<li>
-										<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_mollys">몰리스</a>
-									</li>
-									<li>
-										<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_electromart">일렉트로마트</a>
-									</li>
-									<li>
-										<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_toykingdom">토이킹덤</a>
-									</li>
-									<li>
-										<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_foodmarket">푸드마켓</a>
-									</li>
-								</ul>
+					<section aria-labelledby="mart-heading" class="mb-12">
+						<h2 id="mart-heading" class="divider">마트 휴무일 및 영업시간</h2>
+						<p class="mb-4 text-gray-600">지점별로 휴무일, 영업시간, 주소, 전화번호, 주차 정보를 제공합니다. 의무휴업일은 지자체 조례에 따라 지점마다 다르고 변경될 수 있으므로, 방문 전 공식 매장 안내도 함께 확인해 주세요.</p>
+						<div class="grid grid-cols-1 gap-6 mb-6 md:grid-cols-2 lg:grid-cols-3">
+							<div class="shadow-md card bg-base-100">
+								<div class="card-body">
+									<h3 class="card-title"><a href="https://locallife.asamaru.net/mart/emart/" class="ft-link">이마트</a></h3>
+									<ul class="mt-2 w-full menu bg-base-200 rounded-box">
+										<li>
+											<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart">이마트</a>
+										</li>
+										<li>
+											<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_traders">이마트 트레이더스</a>
+										</li>
+										<li>
+											<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_nobrand">노브랜드</a>
+										</li>
+										<li>
+											<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_everyday">이마트 에브리데이</a>
+										</li>
+										<li>
+											<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_starfieldmarket">스타필드마켓</a>
+										</li>
+										<li>
+											<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_mollys">몰리스</a>
+										</li>
+										<li>
+											<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_electromart">일렉트로마트</a>
+										</li>
+										<li>
+											<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_toykingdom">토이킹덤</a>
+										</li>
+										<li>
+											<a href="https://locallife.asamaru.net/mart/emart/#toc-brand-emart_foodmarket">푸드마켓</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="shadow-md card bg-base-100">
+								<div class="card-body">
+									<h3 class="card-title"><a href="https://locallife.asamaru.net/mart/lottemart/" class="ft-link">롯데마트</a></h3>
+									<ul class="mt-2 w-full menu bg-base-200 rounded-box">
+										<li>
+											<a href="https://locallife.asamaru.net/mart/lottemart/#toc-brand-lottemart">롯데마트</a>
+										</li>
+										<li>
+											<a href="https://locallife.asamaru.net/mart/lottemart/#toc-brand-lottemart_maxx">롯데마트맥스</a>
+										</li>
+										<li>
+											<a href="https://locallife.asamaru.net/mart/lottemart/#toc-brand-lottemart_zettaflex">제타플렉스</a>
+										</li>
+										<li>
+											<a href="https://locallife.asamaru.net/mart/lottemart/#toc-brand-lottemart_grandgrocery">그랑그로서리</a>
+										</li>
+										<li>
+											<a href="https://locallife.asamaru.net/mart/lottemart/#toc-brand-lottemart_colliolipettown">콜리올리펫타운</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="shadow-md card bg-base-100">
+								<div class="card-body">
+									<h3 class="card-title"><a href="https://locallife.asamaru.net/mart/homeplus/" class="ft-link">홈플러스</a></h3>
+									<ul class="mt-2 w-full menu bg-base-200 rounded-box">
+										<li>
+											<a href="https://locallife.asamaru.net/mart/homeplus/#toc-brand-homeplus">홈플러스</a>
+										</li>
+										<li>
+											<a href="https://locallife.asamaru.net/mart/homeplus/#toc-brand-homeplus_express">홈플러스 익스프레스</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="shadow-md card bg-base-100">
+								<div class="card-body">
+									<h3 class="card-title"><a href="https://locallife.asamaru.net/mart/costco/" class="ft-link">코스트코</a></h3>
+								</div>
+							</div>
+							<div class="shadow-md card bg-base-100">
+								<div class="card-body">
+									<h3 class="card-title"><a href="https://locallife.asamaru.net/mart/megamart/" class="ft-link">메가마트</a></h3>
+								</div>
 							</div>
 						</div>
-						<div class="shadow-md card bg-base-100">
-							<div class="card-body">
-								<h3 class="card-title">롯데마트</h3>
-								<ul class="mt-2 w-full menu bg-base-200 rounded-box">
-									<li>
-										<a href="https://locallife.asamaru.net/mart/lottemart/#toc-brand-lottemart">롯데마트</a>
-									</li>
-									<li>
-										<a href="https://locallife.asamaru.net/mart/lottemart/#toc-brand-lottemart_maxx">롯데마트맥스</a>
-									</li>
-									<li>
-										<a href="https://locallife.asamaru.net/mart/lottemart/#toc-brand-lottemart_zettaflex">제타플렉스</a>
-									</li>
-									<li>
-										<a href="https://locallife.asamaru.net/mart/lottemart/#toc-brand-lottemart_grandgrocery">그랑그로서리</a>
-									</li>
-									<li>
-										<a href="https://locallife.asamaru.net/mart/lottemart/#toc-brand-lottemart_colliolipettown">콜리올리펫타운</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-						<div class="shadow-md card bg-base-100">
-							<div class="card-body">
-								<h3 class="card-title">홈플러스</h3>
-								<ul class="mt-2 w-full menu bg-base-200 rounded-box">
-									<li>
-										<a href="https://locallife.asamaru.net/mart/homeplus/#toc-brand-homeplus">홈플러스</a>
-									</li>
-									<li>
-										<a href="https://locallife.asamaru.net/mart/homeplus/#toc-brand-homeplus_express">홈플러스 익스프레스</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-						<div class="shadow-md card bg-base-100">
-							<div class="card-body">
-								<h3 class="card-title">코스트코</h3>
-								<ul class="mt-2 w-full menu bg-base-200 rounded-box">
-									<li>
-										<a href="https://locallife.asamaru.net/mart/costco/#toc-brand-costco">코스트코</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-						<div class="shadow-md card bg-base-100">
-							<div class="card-body">
-								<h3 class="card-title">메가마트</h3>
-								<ul class="mt-2 w-full menu bg-base-200 rounded-box">
-									<li>
-										<a href="https://locallife.asamaru.net/mart/megamart/#toc-brand-megamart">메가마트</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-					</div>
+						<a href="https://locallife.asamaru.net/mart/" class="btn btn-outline btn-primary">전체 마트 휴무일 보기</a>
+					</section>
 					<div class="gad-box">
 						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8163803188491150" crossorigin="anonymous"></script>
 						<ins class="adsbygoogle" style="display: block" data-ad-client="ca-pub-8163803188491150" data-ad-slot="3349668476" data-ad-format="auto" data-full-width-responsive="true"></ins>
@@ -229,57 +230,67 @@
 							(adsbygoogle = window.adsbygoogle || []).push({});
 						</script>
 					</div>
-					<div class="divider">달력</div>
-					<div class="mb-8 shadow card bg-base-100">
-						<div class="card-body">
-							<h3 class="mb-4 card-title">연도별 달력</h3>
-							<div class="flex flex-wrap gap-2">
-								<a href="https://locallife.asamaru.net/calendar/year/2028/" title="2028년 달력" class="btn btn-outline">2028년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2027/" title="2027년 달력" class="btn btn-outline">2027년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2026/" title="2026년 달력" class="btn btn-primary">2026년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2025/" title="2025년 달력" class="btn btn-outline">2025년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2024/" title="2024년 달력" class="btn btn-outline">2024년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2023/" title="2023년 달력" class="btn btn-outline">2023년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2022/" title="2022년 달력" class="btn btn-outline">2022년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2021/" title="2021년 달력" class="btn btn-outline">2021년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2020/" title="2020년 달력" class="btn btn-outline">2020년</a>
+					<section aria-labelledby="calendar-heading" class="mb-12">
+						<h2 id="calendar-heading" class="divider">달력·법정 공휴일·손 없는 날</h2>
+						<p class="mb-4 text-gray-600">연도를 선택하면 양력과 음력을 함께 보는 달력에서 법정 공휴일과 손 없는 날을 확인할 수 있습니다. 월별 인쇄도 지원합니다.</p>
+						<div class="grid gap-6 mb-6 md:grid-cols-2">
+							<div class="shadow card bg-base-100">
+								<div class="card-body">
+									<h3 class="mb-2 card-title">다가오는 법정 공휴일</h3>
+									<ul class="space-y-1">
+										<li>
+											<time datetime="2026-12-25">2026년 12월 25일(금)</time>
+											<span class="font-bold">기독탄신일</span>
+										</li>
+										<li>
+											<time datetime="2027-01-01">2027년 1월 1일(금)</time>
+											<span class="font-bold">1월1일</span>
+										</li>
+										<li>
+											<time datetime="2027-02-06">2027년 2월 6일(토)</time>
+											<span class="font-bold">설날</span>
+										</li>
+									</ul>
+									<a href="https://locallife.asamaru.net/calendar/holiday/" class="mt-3 ft-link">법정 공휴일 전체 보기</a>
+								</div>
+							</div>
+							<div class="shadow card bg-base-100">
+								<div class="card-body">
+									<h3 class="mb-2 card-title">다가오는 손 없는 날</h3>
+									<ul class="space-y-1">
+										<li><time datetime="2026-10-30">2026년 10월 30일(금)</time></li>
+										<li><time datetime="2026-11-08">2026년 11월 8일(일)</time></li>
+										<li><time datetime="2026-11-17">2026년 11월 17일(화)</time></li>
+									</ul>
+									<p class="mt-2 text-sm text-gray-500">음력 9·10일 기준의 전통적 날짜 구분입니다.</p>
+									<a href="https://locallife.asamaru.net/calendar/auspicious/" class="mt-3 ft-link">손 없는 날 전체 보기</a>
+								</div>
 							</div>
 						</div>
-					</div>
-					<div class="divider">법정 공휴일</div>
-					<div class="mb-8 shadow card bg-base-100">
-						<div class="card-body">
-							<h3 class="mb-4 card-title">연도별 법정 공휴일</h3>
-							<div class="flex flex-wrap gap-2">
-								<a href="https://locallife.asamaru.net/calendar/year/2028/" title="2028년 법정 공휴일" class="btn btn-outline">2028년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2027/" title="2027년 법정 공휴일" class="btn btn-outline">2027년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2026/" title="2026년 법정 공휴일" class="btn btn-primary">2026년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2025/" title="2025년 법정 공휴일" class="btn btn-outline">2025년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2024/" title="2024년 법정 공휴일" class="btn btn-outline">2024년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2023/" title="2023년 법정 공휴일" class="btn btn-outline">2023년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2022/" title="2022년 법정 공휴일" class="btn btn-outline">2022년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2021/" title="2021년 법정 공휴일" class="btn btn-outline">2021년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2020/" title="2020년 법정 공휴일" class="btn btn-outline">2020년</a>
+						<div class="shadow card bg-base-100">
+							<div class="card-body">
+								<h3 class="mb-3 card-title">연도별 달력</h3>
+								<div class="flex flex-wrap gap-2">
+									<a href="https://locallife.asamaru.net/calendar/year/2026/" title="2026년 달력" class="btn btn-primary">2026년</a>
+									<a href="https://locallife.asamaru.net/calendar/year/2027/" title="2027년 달력" class="btn btn-outline">2027년</a>
+								</div>
+								<details class="mt-4">
+									<summary class="cursor-pointer text-gray-600">2020년부터 2028년까지 전체 연도 보기</summary>
+									<div class="flex flex-wrap gap-2 mt-3">
+										<a href="https://locallife.asamaru.net/calendar/year/2028/" title="2028년 달력" class="btn btn-sm btn-outline">2028년</a>
+										<a href="https://locallife.asamaru.net/calendar/year/2027/" title="2027년 달력" class="btn btn-sm btn-outline">2027년</a>
+										<a href="https://locallife.asamaru.net/calendar/year/2026/" title="2026년 달력" class="btn btn-sm btn-outline">2026년</a>
+										<a href="https://locallife.asamaru.net/calendar/year/2025/" title="2025년 달력" class="btn btn-sm btn-outline">2025년</a>
+										<a href="https://locallife.asamaru.net/calendar/year/2024/" title="2024년 달력" class="btn btn-sm btn-outline">2024년</a>
+										<a href="https://locallife.asamaru.net/calendar/year/2023/" title="2023년 달력" class="btn btn-sm btn-outline">2023년</a>
+										<a href="https://locallife.asamaru.net/calendar/year/2022/" title="2022년 달력" class="btn btn-sm btn-outline">2022년</a>
+										<a href="https://locallife.asamaru.net/calendar/year/2021/" title="2021년 달력" class="btn btn-sm btn-outline">2021년</a>
+										<a href="https://locallife.asamaru.net/calendar/year/2020/" title="2020년 달력" class="btn btn-sm btn-outline">2020년</a>
+									</div>
+								</details>
 							</div>
 						</div>
-					</div>
-					<div class="divider">손 없는 날</div>
-					<div class="mb-8 shadow card bg-base-100">
-						<div class="card-body">
-							<h3 class="mb-4 card-title">연도별 손 없는 날</h3>
-							<div class="flex flex-wrap gap-2">
-								<a href="https://locallife.asamaru.net/calendar/year/2028/" title="2028년 손 없는 날" class="btn btn-outline">2028년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2027/" title="2027년 손 없는 날" class="btn btn-outline">2027년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2026/" title="2026년 손 없는 날" class="btn btn-primary">2026년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2025/" title="2025년 손 없는 날" class="btn btn-outline">2025년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2024/" title="2024년 손 없는 날" class="btn btn-outline">2024년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2023/" title="2023년 손 없는 날" class="btn btn-outline">2023년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2022/" title="2022년 손 없는 날" class="btn btn-outline">2022년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2021/" title="2021년 손 없는 날" class="btn btn-outline">2021년</a>
-								<a href="https://locallife.asamaru.net/calendar/year/2020/" title="2020년 손 없는 날" class="btn btn-outline">2020년</a>
-							</div>
-						</div>
-					</div>
+					</section>
 					<div class="gad-box">
 						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8163803188491150" crossorigin="anonymous"></script>
 						<ins class="adsbygoogle" style="display: block" data-ad-client="ca-pub-8163803188491150" data-ad-slot="8023410656" data-ad-format="auto" data-full-width-responsive="true"></ins>
@@ -287,16 +298,45 @@
 							(adsbygoogle = window.adsbygoogle || []).push({});
 						</script>
 					</div>
-					<h2 class="divider">분리배출</h2>
-					<div class="mb-8 shadow card bg-base-100">
-						<div class="card-body">
-							<ul class="flex flex-wrap gap-2">
-								<li><a href="https://locallife.asamaru.net/waste/type/" class="btn btn-outline">종류별 분리배출 방법</a></li>
-								<li><a href="https://locallife.asamaru.net/waste/local-government/" class="btn btn-outline">지자체별 분리배출 누리집</a></li>
-								<li><a href="https://locallife.asamaru.net/waste/collection/" class="btn btn-outline">분리배출 수거함 위치 찾기</a></li>
-							</ul>
-						</div>
-					</div>
+					<section aria-labelledby="waste-type-heading" class="mb-12">
+						<h2 id="waste-type-heading" class="divider">올바른 분리배출 방법</h2>
+						<p class="mb-4 text-gray-600">종이, 플라스틱, 비닐, 유리병, 음식물쓰레기 등 품목별로 배출 방법을 안내합니다. 같은 재질이라도 오염 상태나 용도에 따라 배출 방법이 달라지므로 품목별 안내를 확인해 주세요.</p>
+						<ul class="grid gap-4 mb-6 md:grid-cols-2">
+							<li class="p-4 rounded-lg border shadow-sm bg-base-100 border-base-200">
+								<a href="https://locallife.asamaru.net/waste/type/recycle/paper/" class="font-bold ft-link">종이 분리배출 방법</a>
+								<p class="mt-1 text-sm text-gray-600">신문, 골판지, 책자 등 종이류의 재활용 기준과 종이로 배출하면 안 되는 영수증, 코팅지 등의 예외 품목을 설명합니다.</p>
+							</li>
+							<li class="p-4 rounded-lg border shadow-sm bg-base-100 border-base-200">
+								<a href="https://locallife.asamaru.net/waste/type/recycle/clear-pet-bottle/" class="font-bold ft-link">무색페트병 분리배출 방법</a>
+								<p class="mt-1 text-sm text-gray-600">재활용 가치가 높은 무색 투명 페트병의 별도 분리 배출 방법과 유색 페트병과의 차이점을 설명합니다.</p>
+							</li>
+							<li class="p-4 rounded-lg border shadow-sm bg-base-100 border-base-200">
+								<a href="https://locallife.asamaru.net/waste/type/recycle/vinyl/" class="font-bold ft-link">비닐류 분리배출 방법</a>
+								<p class="mt-1 text-sm text-gray-600">비닐 포장재, 필름류 등 비닐 자원의 분리 배출 방법과 오염된 비닐의 일반 쓰레기 처리 기준을 설명합니다.</p>
+							</li>
+							<li class="p-4 rounded-lg border shadow-sm bg-base-100 border-base-200">
+								<a href="https://locallife.asamaru.net/waste/type/food-waste/" class="font-bold ft-link">음식물류폐기물 분리배출 방법</a>
+								<p class="mt-1 text-sm text-gray-600">음식물류 폐기물의 배출 기준과 일반 쓰레기로 배출해야 하는 뼈, 껍데기 등 예외 품목을 상세히 안내합니다.</p>
+							</li>
+						</ul>
+						<a href="https://locallife.asamaru.net/waste/type/" class="btn btn-outline btn-primary">품목별 분리배출 방법 전체 보기</a>
+					</section>
+					<section aria-labelledby="collection-heading" class="mb-12">
+						<h2 id="collection-heading" class="divider">우리 동네 분리배출 수거함 찾기</h2>
+						<p class="mb-4 text-gray-600">공공데이터를 바탕으로 전국 시·군·구와 읍·면·동 단위의 수거함 주소를 안내합니다. 지역을 선택하면 지도와 주소 목록에서 위치를 확인할 수 있으며, 목록에는 데이터의 기준일자를 함께 표시합니다.</p>
+						<ul class="flex flex-wrap gap-2 mb-6">
+							<li><a href="https://locallife.asamaru.net/waste/collection/clothing/" class="btn btn-outline">의류수거함</a></li>
+							<li><a href="https://locallife.asamaru.net/waste/collection/medication/" class="btn btn-outline">폐의약품수거함</a></li>
+							<li><a href="https://locallife.asamaru.net/waste/collection/battery/" class="btn btn-outline">폐건전지수거함</a></li>
+							<li><a href="https://locallife.asamaru.net/waste/collection/fluorescent/" class="btn btn-outline">폐형광등수거함</a></li>
+						</ul>
+						<a href="https://locallife.asamaru.net/waste/collection/" class="btn btn-outline btn-primary">수거함 위치 찾기</a>
+					</section>
+					<section aria-labelledby="data-heading">
+						<h2 id="data-heading" class="divider">제공 정보와 데이터 안내</h2>
+						<p class="text-gray-600">마트 정보는 각 브랜드의 공식 매장 안내를, 공휴일과 음력 정보는 공공데이터를, 수거함 위치는 지자체가 공개한 주소 데이터를 수집해 정리합니다. 수집 시점과 원천 자료의 공개 시점에 차이가 있을 수 있고, 수거함 목록이 실제 설치된 모든 장소를 담고 있지는 않습니다. ‘정보없음’은 해당 정보를 확보하지 못했다는 뜻이며 휴무일이 없다는 뜻은 아닙니다.</p>
+						<a href="https://locallife.asamaru.net/about-us/" class="inline-block mt-3 ft-link">서비스 소개 및 데이터 안내 자세히 보기</a>
+					</section>
 					<div class="gad-box">
 						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8163803188491150" crossorigin="anonymous"></script>
 						<ins class="adsbygoogle" style="display: block" data-ad-client="ca-pub-8163803188491150" data-ad-slot="5176372576" data-ad-format="auto" data-full-width-responsive="true"></ins>
@@ -343,6 +383,8 @@
 			<a href="https://github.com/" title="Github.com" rel="nofollow" target="_blank"><em>Github</em></a>
 			/ Posted by
 			<a href="https://docs.google.com/forms/d/e/1FAIpQLSdsefx8At2yOTNyx7xoP9IaFv0odvthnGXMEXG_tKZea_VxMg/viewform?usp=pp_url&entry.316518454=%EC%83%9D%ED%99%9C%EC%A0%95%EB%B3%B4%EA%B0%80%EC%9D%B4%EB%93%9C" title="문의하기" rel="nofollow" target="_blank">아사마루</a>
+			&nbsp;&nbsp;&nbsp;
+			<a href="https://locallife.asamaru.net/about-us/">서비스 소개</a>
 			&nbsp;&nbsp;&nbsp;
 			<a href="https://locallife.asamaru.net/policy/privacy/" target="_blank">개인정보처리방침</a>
 		</footer>
